@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:3:2-27
+		INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:3:52-77
+		INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:3:28-51
+		INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:4:2-12:16
+	android:label
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:4:45-77
+	android:icon
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:4:15-44
+activity#sf.hmg.turntest.turntest
+ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:5:3-10:14
+	android:label
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:5:38-70
+	android:name
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:5:13-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:6:4-9:20
+action#android.intent.action.MAIN
+ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:7:5-57
+	android:name
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:7:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:8:15-62
+uses-sdk
+ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:13:2-40
+INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:13:2-40
+INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:13:2-40
+INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:13:2-40
+INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:13:2-40
+	android:targetSdkVersion
+		INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:13:2-40
+		INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml:13:12-37
+		INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProgramFiles\Android\AndroidStudioProjects\TXT_Page_Turning\app\src\main\AndroidManifest.xml

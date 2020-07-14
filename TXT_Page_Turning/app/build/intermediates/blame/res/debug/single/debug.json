@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\ProgramFiles\\Android\\AndroidStudioProjects\\TXT_Page_Turning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\ProgramFiles\\Android\\AndroidStudioProjects\\TXT_Page_Turning\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\ProgramFiles\\Android\\AndroidStudioProjects\\TXT_Page_Turning\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\ProgramFiles\\Android\\AndroidStudioProjects\\TXT_Page_Turning\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\ProgramFiles\\Android\\AndroidStudioProjects\\TXT_Page_Turning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\ProgramFiles\\Android\\AndroidStudioProjects\\TXT_Page_Turning\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\ProgramFiles\\Android\\AndroidStudioProjects\\TXT_Page_Turning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.jpg.flat",
+        "source": "D:\\ProgramFiles\\Android\\AndroidStudioProjects\\TXT_Page_Turning\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "D:\\ProgramFiles\\Android\\AndroidStudioProjects\\TXT_Page_Turning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\ProgramFiles\\Android\\AndroidStudioProjects\\TXT_Page_Turning\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]
